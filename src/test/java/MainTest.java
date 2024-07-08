@@ -17,7 +17,6 @@ public class MainTest {
 
     @Test
     public void mainTest() {
-
         long time = 0;
         for (int i = 0; i < 5; i++) {
             AnimalsCage bean =
